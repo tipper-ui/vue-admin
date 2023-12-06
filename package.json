@@ -1,0 +1,28 @@
+{
+  "name": "@tipperui/vue-admin",
+  "version": "0.0.2",
+  "description": "An admin panel for tipper-ui-vue",
+  "keywords": [
+    "floating",
+    "point",
+    "float",
+    "js",
+    "javascript",
+    "tooltip",
+    "dropdown",
+    "menu",
+    "tipper",
+    "tipperui",
+    "tipper-ui",
+    "tipper-ui-react",
+    "tipperui-react",
+    "tipperui-vue"
+  ],
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gokh4nozturk",
+  "license": "ISC"
+}
